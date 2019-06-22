@@ -1,0 +1,10 @@
+[user]
+    name = "myamada9999"
+    email = AAA.BBB@CCC.com
+[alias]
+    in = commit --interactive -s
+    ha = reset --hard
+    sf = reset --soft
+    fo = format-patch
+    lo = log --oneline
+    ri = rebase -i
